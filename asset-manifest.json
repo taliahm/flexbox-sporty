@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/flexbox-sporty/static/css/main.6b6c51f7.chunk.css",
+    "main.js": "/flexbox-sporty/static/js/main.09fb50fe.chunk.js",
+    "main.js.map": "/flexbox-sporty/static/js/main.09fb50fe.chunk.js.map",
+    "runtime-main.js": "/flexbox-sporty/static/js/runtime-main.f479bab8.js",
+    "runtime-main.js.map": "/flexbox-sporty/static/js/runtime-main.f479bab8.js.map",
+    "static/js/2.0bcda4e4.chunk.js": "/flexbox-sporty/static/js/2.0bcda4e4.chunk.js",
+    "static/js/2.0bcda4e4.chunk.js.map": "/flexbox-sporty/static/js/2.0bcda4e4.chunk.js.map",
+    "index.html": "/flexbox-sporty/index.html",
+    "precache-manifest.2369d323813df2291c20891a9ec8f509.js": "/flexbox-sporty/precache-manifest.2369d323813df2291c20891a9ec8f509.js",
+    "service-worker.js": "/flexbox-sporty/service-worker.js",
+    "static/css/main.6b6c51f7.chunk.css.map": "/flexbox-sporty/static/css/main.6b6c51f7.chunk.css.map",
+    "static/js/2.0bcda4e4.chunk.js.LICENSE.txt": "/flexbox-sporty/static/js/2.0bcda4e4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f479bab8.js",
+    "static/js/2.0bcda4e4.chunk.js",
+    "static/css/main.6b6c51f7.chunk.css",
+    "static/js/main.09fb50fe.chunk.js"
+  ]
+}
