@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2d01c69c5fa505f752ce7464541f9906",
+    "revision": "00316c3e304f035b5c40b157d9219cc2",
     "url": "/flexbox-sporty/index.html"
   },
   {
